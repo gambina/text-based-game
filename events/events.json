@@ -1,0 +1,96 @@
+{
+  "events": [
+    {
+      "event_tag": "forest",
+      "event_id": 1,
+      "text": "You wake up in the hospital. World is out of joint, you have to get away",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Leave by using stairs",
+          "outcome": [
+            "This and that happens"
+          ]
+        },
+        {
+          "option_id": 2,
+          "text": "Hide - roll a die",
+          "outcome": [
+            "First",
+            "Second"
+          ]
+        }
+      ]
+    },
+    {
+      "event_tag": "forest",
+      "event_id": 2,
+      "text": "This is the second event.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Choose option 1 for the second event."
+        },
+        {
+          "option_id": 2,
+          "text": "Choose option 2 for the second event."
+        }
+      ]
+    },
+    {
+      "event_tag": "forest",
+      "event_id": 3,
+      "text": "This is the third event. No options available.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dead as dillinger",
+          "outcome": [
+            "This and that happens"
+          ]
+        },
+        {
+          "option_id": 2,
+          "text": "Press F - roll a die",
+          "outcome": [
+            "First",
+            "Second"
+          ]
+        }
+      ]
+    },
+    {
+      "event_tag": "sea",
+      "event_id": 4,
+      "text": "This is the fourth event.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Choose option 1 for the fourth event."
+        },
+        {
+          "option_id": 2,
+          "text": "Choose option 2 for the fourth event."
+        }
+      ]
+    },
+    {
+      "event_tag": "forest",
+      "event_id": 5,
+      "text": "This is the fifth event. No options available.",
+      "options": []
+    },
+    {
+      "event_tag": "forest",
+      "event_id": 6,
+      "text": "This is the sixth event. No options available.",
+      "options": []
+    },
+    {
+      "event_tag": "forest",
+      "event_id": 7,
+      "text": "This is the seventh event. No options available.",
+      "options": []
+    }
+  ]
+}
